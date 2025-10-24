@@ -1,1 +1,1 @@
-![A mushroom-head robot drinking bubble tea](https://raw.githubusercontent.com/Codecademy/docs/main/media/codey.jpg 'Codey, the Codecademy mascot, drinking bubble tea')
+![Honest work meme](https://media.npr.org/assets/img/2023/05/26/honest-work-meme-c7034f8bd7b11467e1bfbe14b87a5f6a14a5274b.jpg 'It aint much meme')
