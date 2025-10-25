@@ -1,1 +1,1 @@
-
+std::cout << "Guess the number between 1 - 100:  ";
